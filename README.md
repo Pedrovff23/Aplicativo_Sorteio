@@ -1,5 +1,5 @@
 # Aplicativo_Sorteio
-Pequeno projeto em Kotlin
+Pequeno projeto em Kotlin que sorteia um número de 0 a 10
 
 <img src="https://github.com/Pedrovff23/Aplicativo_Sorteio/assets/55757037/48a69dd2-5088-42d7-9829-85ee0b8f4b17" width="150" />
 
